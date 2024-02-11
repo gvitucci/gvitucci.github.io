@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Giuseppe Vitucci"
   avatar           : "linkedin_photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Vision Engineer"
+  location         : "Milan, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
