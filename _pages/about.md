@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there!
+I'm Giuseppe.
+I got my bachelor's degree in engineering physics at the [Politecnico di Torino](https://www.polito.it/), and continued with my specialization in Nanotechnology for ICTs, a joint program between Torino, [INPG Grenoble](https://www.grenoble-inp.fr/) and [EPFL Lausanne](https://www.epfl.ch/en/) . In the last semester I had the opportunity to develop my thesis at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), where I designed and developed a micro-bridge pressure sensor. I also visited California and USA west states (yes, and Las Vegas too. Twice.) and met wonderful people during my stay.
 
-A data-driven personal website
+After the graduation, I joined Magneti Marelli as a test engineer for infotainment systems. Despite the interesting opportunity, I soon realized that i wanted to go deeper into my Physics knowledge. That is why I started my PhD in Applied Physics, at the university of [Milano Bicocca](https://www.unimib.it/). I had the possibility to work on a compact microdevice, able to create pictures from neutrons. I conducted most of my experiments at the [RAL](https://www.ukri.org/who-we-are/stfc/locations/rutherford-appleton-laboratory/) laboratories in UK, with some pretty good result, some of which has been published in the official institute site. Do you know what a pearl and a souflè have in common? Well, you can check it [here](https://www.isis.stfc.ac.uk/Pages/Neutron-imaging-study-dives-deep-into-pearls.aspx).
+
+After getting my PhD, I went back to work in a private company, at [Optec](https://www.optec.eu), where i could happily join my career with my evergreen passion for (the Life), the Universe and everything ([citation needed](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything)).  I contributed in many space projects, for instance in [LICIA CUBE](https://www.asi.it/en/planets-stars-universe/solar-system-and-beyond/liciacube/) mission.  
+
+After 4.5 "space" years, i decided to change my focus. Following the philosophy of the [School for Poetic Computation](https://sfpc.study/), i wanted to explore a different aspect of my job, trying to merge technical aspects with Art. I am currently at [IGOODI](https://www.igoodi.eu/en/home) , where I am working with compter vision to create realistic digital representations of the real human beautiness.
+
+To sum up, I feel that this plethora of different experiences made me a versatile professional, with a knowledge base spanning multiple disciplines. I like to work in environments that require adaptability and innovative problem-solving. My passion for continuous learning and personal growth drives me to expand my expertise across various domains, making me compfortable in dynamic and evolving industries, where research and development are the watchwords. I will let Herman Melville better explain my thought. He said: "As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
