@@ -24,13 +24,16 @@ Work experience
   *	**Frameworks/tools** : OpenCV, MATLAB Image Processing and Acquisition Toolbox,  C++ for Camera API development, firmware programming for motion controllers (ELMO MC, Arduino, Raspberry PI …)
   *	**Hardware**: Industrial camera integration (Basler/Ximea/Teledyne), like pixel size, bit depth, full well capacity, SNR; Linear and rotative motors control (focus systems), micro-positioners, generic electronics lab equipment
 
+* Microla Optoelectronics (2013 - 2014):
+Worked on LED illuminations systems and High-energy Passive Q-Switched Laser. Some lens design with ZEMAX, optoelectronics lab equipment.
+
+
 
 Education
 ======
-* B.S. in Engineering Physics, Politecnico di Torino, 2011
-* M.S. in Nanotechnologies for ICT, Politecnico di Torino, INP Grenoble, EPFL Lausanne, 2014
 * Ph.D in Physics, Università Milano Bicocca, 2018
-
+* M.S. in Nanotechnologies for ICT, Politecnico di Torino, INP Grenoble, EPFL Lausanne, 2014
+* B.S. in Engineering Physics, Politecnico di Torino, 2011
 
 <!--Skills
 ======
