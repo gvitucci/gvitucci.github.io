@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Peppe's Homepage"
 title_separator          : "-"
 name                     : &name "Giuseppe Vitucci"
 description              : &description "Computer vision engineer"
