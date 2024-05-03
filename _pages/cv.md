@@ -9,25 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* IGOODI Srl (2023  today): Avatar related applications, including standard 2D (image segmentation, edge detection, elaboration, image classification with deep learning approaches) and 3D image processing (stereo vision, depth estimation, photogrammetry) and novel rendering methods (neural radiance fields, 3D gaussian splatting). 
+ * Languages: Python, C++, MATLAB.
+ * Frameworks/tools: OpenCV, Numpy, Pytorch, fast prototyping in Anaconda env., MATLAB Image processing Toolbox, Blender, MeshLab, YOLO-od, COLMAP
+ * Hardware: RGB and IR Cameras, ToF cameras
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+* Optec SpA (2018 - 2023): R&D and test of VIS/ SWIR optoelectronic devices, mainly for space applications:
+* Languages: Python, C++, MATLAB.
+*	Frameworks/tools : OpenCV, MATLAB Image Processing and Acquisition Toolbox,  C++ for Camera API development, firmware programming for motion controllers (ELMO MC, Arduino, Raspberry PI …)
+*	Hardware: Industrial camera integration (Basler/Ximea/Teledyne), like pixel size, bit depth, full well capacity, SNR; Linear and rotative motors control (focus systems), micro-positioners, generic electronics lab equipment
+
+
+Education
+======
+* B.S. in Engineering Physics, Politecnico di Torino, 2011
+* M.S. in Nanotechnologies for ICT, Politecnico di Torino, INP Grenoble, EPFL Lausanne, 2014
+* Ph.D in Physics, Università Milano Bicocca, 2018
+
+
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +59,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams_
+-->
