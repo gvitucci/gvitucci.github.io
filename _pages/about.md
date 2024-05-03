@@ -26,5 +26,6 @@ I am currently at [IGOODI](https://www.igoodi.eu/en/home) , where I am working w
 To sum up, I feel that this plethora of different experiences made me a versatile professional, with a knowledge base spanning multiple disciplines. I like to work in environments that require adaptability and innovative problem-solving.  
 My passion for continuous learning and personal growth drives me to expand my expertise across various domains, making me compfortable in dynamic and evolving industries, where research and development are the watchwords.  
 I will let Herman Melville better explain my thought. He said:  
- <em>"As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."</em>
+
+ <em> - As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. - </em>
 
