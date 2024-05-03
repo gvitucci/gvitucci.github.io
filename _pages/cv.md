@@ -11,22 +11,18 @@ redirect_from:
 
 Work experience
 ======
-* IGOODI Srl (2023  today):
+* IGOODI Srl (2023  today): Avatar related applications, including standard 2D (image segmentation, edge detection, elaboration, image classification with deep learning approaches) and 3D image processing (stereo vision, depth estimation, photogrammetry) and novel rendering methods (neural radiance fields, 3D gaussian splatting). 
 
- Avatar related applications, including standard 2D (image segmentation, edge detection, elaboration, image classification with deep learning approaches) and 3D image processing (stereo vision, depth estimation, photogrammetry) and novel rendering methods (neural radiance fields, 3D gaussian splatting). 
-
-  * Languages: Python, C++, MATLAB.
-  * Frameworks/tools: OpenCV, Numpy, Pytorch, fast prototyping in Anaconda env., MATLAB Image processing Toolbox, Blender, MeshLab, YOLO-od, COLMAP
-  * Hardware: RGB and IR Cameras, ToF cameras
+  * **Languages**: Python, C++, MATLAB.
+  * **Frameworks/tools**: OpenCV, Numpy, Pytorch, fast prototyping in Anaconda env., MATLAB Image processing Toolbox, Blender, MeshLab, YOLO-od, COLMAP
+  * **Hardware**: RGB and IR Cameras, ToF cameras
 
 
-* Optec SpA (2018 - 2023): 
+* Optec SpA (2018 - 2023): R&D and test of VIS/ SWIR optoelectronic devices, mainly for space applications.
 
-R&D and test of VIS/ SWIR optoelectronic devices, mainly for space applications.
-
-  * Languages: Python, C++, MATLAB.
-  *	Frameworks/tools : OpenCV, MATLAB Image Processing and Acquisition Toolbox,  C++ for Camera API development, firmware programming for motion controllers (ELMO MC, Arduino, Raspberry PI …)
-  *	Hardware: Industrial camera integration (Basler/Ximea/Teledyne), like pixel size, bit depth, full well capacity, SNR; Linear and rotative motors control (focus systems), micro-positioners, generic electronics lab equipment
+  * **Languages**: Python, C++, MATLAB.
+  *	**Frameworks/tools** : OpenCV, MATLAB Image Processing and Acquisition Toolbox,  C++ for Camera API development, firmware programming for motion controllers (ELMO MC, Arduino, Raspberry PI …)
+  *	**Hardware**: Industrial camera integration (Basler/Ximea/Teledyne), like pixel size, bit depth, full well capacity, SNR; Linear and rotative motors control (focus systems), micro-positioners, generic electronics lab equipment
 
 
 Education
