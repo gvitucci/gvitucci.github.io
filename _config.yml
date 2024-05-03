@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peppe's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Giuseppe Vitucci"
-description              : &description "Computer vision engineer"
+description              : &description "Computer Vision Engineer"
 url                      : https://gvitucci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gvitucci/gvitucci.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/giuseppevitucci""
+  linkedin         : "giuseppevitucci""
   orcid            : 
   pinterest        :
   soundcloud       :
