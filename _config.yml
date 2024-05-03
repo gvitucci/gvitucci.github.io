@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peppe's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Giuseppe Vitucci"
 description              : &description "Computer vision engineer"
@@ -86,7 +86,7 @@ author:
   location         : "Milan, Italy"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=TUZNpv0AAAAJ&hl=it&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
