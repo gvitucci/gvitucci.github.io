@@ -15,6 +15,6 @@ There are a lot of potential applications about this novel views syntesizer.
 
 
 ## Sub-pixel edge finder
-The only pure python implementation of a subpixel edge location algorithm, fast and performant. The comparison below is with a standard Canny edge detector present in the OpenCV framework.
+The only pure python implementation of a subpixel edge location algorithm, fast and performant. The comparison below is with a standard Canny edge detector available in the OpenCV framework.
 
 [![saturn](https://github.com/gvitucci/gvitucci.github.io/blob/master/_portfolio/saturn.jpg?raw=true "Sub-pixel algorithm")](https://github.com/gravi-toni/subpixel-edges)
