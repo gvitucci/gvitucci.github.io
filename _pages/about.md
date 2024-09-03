@@ -21,7 +21,8 @@ Finished my PhD, I went back to work in a private company, at [Optec](https://ww
 I contributed in many space projects, for instance in [LICIA CUBE](https://www.asi.it/en/planets-stars-universe/solar-system-and-beyond/liciacube/) mission.  
 
 After 4.5 "space" years, i decided to change my focus. Following the philosophy of the [School for Poetic Computation](https://sfpc.study/), i wanted to explore a different aspect of my job, trying to merge technical aspects with Art.  
-I am currently at [IGOODI](https://www.igoodi.eu/en/home) , where I am working with compter vision to create realistic digital representations of the real human beautiness.
+Hence I spent some time with [IGOODI](https://www.igoodi.eu/en/home) , where I worked with computer vision to create realistic digital representations of the real human beautiness.
+However, my passion for space called me back, so I decided to join the [KursOrbital](https://kursorbital.com/) project, where I hope to contribute effectively to my beloved field of human space exploration.
 
 To sum up, I feel that this plethora of different experiences made me a versatile professional, with a knowledge base spanning multiple disciplines. I like to work in environments that require adaptability and innovative problem-solving.  
 My passion for continuous learning and personal growth drives me to expand my expertise across various domains, making me compfortable in dynamic and evolving industries, where research and development are the watchwords.  
