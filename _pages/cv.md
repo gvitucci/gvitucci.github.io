@@ -17,7 +17,11 @@ This role entails a deep understanding of physical optics, sensor technology as 
 
 Work experience
 ======
-* IGOODI Srl (2023 - today): Computer Vision for Avatar related applications, including standard 2D (image segmentation, edge detection, elaboration, image classification with deep learning approaches) and 3D image processing (stereo vision, depth estimation, photogrammetry) and novel rendering methods (neural radiance fields, 3D gaussian splatting). 
+* KursOrbital Srl (2024 - today): Computer Vision focused on developing and implementing innovative solutions that empower spacecraft to autonomously navigate, track and dock with specific targets. 
+
+
+
+* IGOODI Srl (2023 - 2024): Computer Vision for Avatar related applications, including standard 2D (image segmentation, edge detection, elaboration, image classification with deep learning approaches) and 3D image processing (stereo vision, depth estimation, photogrammetry) and novel rendering methods (neural radiance fields, 3D gaussian splatting). 
 
   * **Languages**: Python, C++, MATLAB.
   * **Frameworks/tools**: OpenCV, Numpy, Pytorch, fast prototyping in Anaconda env., MATLAB Image processing Toolbox, Blender, MeshLab, YOLO-od, COLMAP
