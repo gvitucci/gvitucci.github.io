@@ -11,13 +11,17 @@ redirect_from:
 
 Summary
 ======
-My main role is **Imaging Systems Engineer**, as I own expertise in both hardware and software components related to optoelectronics architectures and computer vision tasks.  
+My main role is **Vision Systems Engineer**, as I own expertise in both hardware and software components related to optoelectronics architectures and computer vision tasks.  
 This role entails a deep understanding of physical optics, sensor technology as well as proficiency in image processing algorithms, software development, and system integration.
 
 
 Work experience
 ======
-* KursOrbital Srl (2024 - today): Computer Vision focused on developing and implementing innovative solutions that empower spacecraft to autonomously navigate, track and dock with specific targets. 
+* Thermofisher Scientific Srl (2025 - today)
+
+
+
+* KursOrbital Srl (2024 - 2025): Computer Vision focused on developing and implementing innovative solutions that empower spacecraft to autonomously navigate, track and dock with specific targets. 
 
 
 
