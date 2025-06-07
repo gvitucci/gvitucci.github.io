@@ -17,7 +17,7 @@ This role entails a deep understanding of physical optics, sensor technology as 
 
 Work experience
 ======
-* Thermofisher Scientific Srl (2025 - today)
+* Thermo Fisher Scientific (2025 - today)
 
 
 
