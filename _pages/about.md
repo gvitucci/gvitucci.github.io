@@ -8,26 +8,21 @@ redirect_from:
   - /about.html 
 ---
 
-Hi there!
+Hi there!  
 I'm Giuseppe.
-I got my bachelor's degree in engineering physics at the [Politecnico di Torino](https://www.polito.it/), and continued with my specialization in Nanotechnology for ICTs, a joint program between Torino, [INPG Grenoble](https://www.grenoble-inp.fr/) and [EPFL Lausanne](https://www.epfl.ch/en/).  
-In the last semester I had the opportunity to develop my thesis at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), where I designed and developed a micro-bridge pressure sensor. I also visited California and USA west states (yes, and Las Vegas too. Twice.) and met wonderful people during my stay.
 
-Later, I joined Magneti Marelli as a test engineer for infotainment systems. Despite the interesting opportunity, I soon realized that i wanted to go deeper into my Physics knowledge.  
-That is why I started my PhD in Applied Physics, at the university of [Milano Bicocca](https://www.unimib.it/). I had the possibility to work on a compact microdevice, able to create pictures from neutrons. I conducted most of my experiments at the [RAL](https://www.ukri.org/who-we-are/stfc/locations/rutherford-appleton-laboratory/) laboratories in UK, with some pretty good result, some of which has been published in the official institute site.  
-Do you know what a pearl and a souflè have in common? Well, you can check it [here](https://www.isis.stfc.ac.uk/Pages/Neutron-imaging-study-dives-deep-into-pearls.aspx).
+My background is in Engineering Physics. I earned my bachelor's degree at the [Politecnico di Torino](https://www.polito.it/) and later specialized in Nanotechnology for ICTs through an international program involving Torino, [INPG Grenoble](https://www.grenoble-inp.fr/) and [EPFL Lausanne](https://www.epfl.ch/en/). During my final semester, I had the opportunity to develop my thesis at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), where I worked on a micro-bridge pressure sensor. That experience strengthened my interest in applied physics, experimental work and technologies designed for challenging environments.
 
-Finished my PhD, I went back to work in a private company where i could happily join my career with my evergreen passion for (the Life), the Universe and everything ([citation needed](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything)).  
-I contributed in many space projects, for instance in [LICIA CUBE](https://www.asi.it/en/planets-stars-universe/solar-system-and-beyond/liciacube/) mission.  
+After a first experience in industry as a test engineer, I felt the need to reconnect more deeply with my scientific background. This led me to pursue a PhD in Applied Physics at the University of [Milano Bicocca](https://www.unimib.it/). My research focused on neutron imaging and compact detector technologies, with most of the experimental work carried out at the [RAL](https://www.ukri.org/who-we-are/stfc/locations/rutherford-appleton-laboratory/) laboratories in the UK. Part of this work was also featured by the institute, including a neutron imaging study on pearls, which you can find [here](https://www.isis.stfc.ac.uk/Pages/Neutron-imaging-study-dives-deep-into-pearls.aspx).
 
-After 4.5 "space" years, i decided to change my focus. Following the philosophy of the [School for Poetic Computation](https://sfpc.study/), i wanted to explore a different aspect of my job, trying to merge technical aspects with Art.  
-Hence I spent some time working with computer vision to create realistic digital representations of the real human beautiness.  
-However, my passion for space called me back, so I decided in 2025 to join a young startup project, where I hoped to contribute effectively to my beloved field of human space exploration.
-Things went differently from expected, so I switched to join a new field for me, biotechnology. I like the opportunity to apply my technical background to improve life-saving products. 
+After my PhD, I moved back to industry, bringing together my technical background and my long-standing fascination with Life, the Universe and Everything ([citation needed](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything)). I had the opportunity to contribute to several space-related projects, including the [LICIA CUBE](https://www.asi.it/en/planets-stars-universe/solar-system-and-beyond/liciacube/) mission. These years allowed me to work across optics, imaging, testing and complex engineering systems, in a field that has always been very close to my personal interests.
 
-To sum up, I feel that this plethora of different experiences made me a versatile professional, with a knowledge base spanning multiple disciplines. I like to work in environments that require adaptability and innovative problem-solving.  
-My passion for continuous learning and personal growth drives me to expand my expertise across various domains, making me compfortable in dynamic and evolving industries, where research and development are the watchwords.  
-I will let Herman Melville better explain my thought. He said:  
+Over time, my curiosity also pushed me to explore the intersection between technology, computer vision and art. Inspired in part by the philosophy of the [School for Poetic Computation](https://sfpc.study/), I became interested in how technical tools can be used not only to measure and analyze the world, but also to represent it in meaningful and creative ways.
 
- <em> - As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. - </em>
+More recently, I have expanded my work into biotechnology, applying my experience in optics, imaging and complex technical systems to a field closely connected to life-saving products. I see this as another step in a broader path: using scientific and engineering skills to contribute to technologies with a tangible impact.
 
+Overall, my journey has been shaped by curiosity, adaptability and a constant desire to learn. I enjoy working across disciplines and moving between research, development and industrial applications. I feel most at home in environments where technical depth, creativity and problem-solving meet.
+
+I will let Herman Melville better express this feeling:
+
+<em>- As for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. -</em>
